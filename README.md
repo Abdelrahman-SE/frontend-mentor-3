@@ -49,7 +49,7 @@ The main goal of this challenge is to practice **layout alignment**, **typograph
 
 ## Author
 
-- GitHub: https://github.com/Abdelrahman-SEAbdelrahman
+- GitHub: https://github.com/Abdelrahman-SE
 - Focused on building strong UI fundamentals
 
 ## Links
